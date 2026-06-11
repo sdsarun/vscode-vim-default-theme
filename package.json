@@ -17,6 +17,7 @@
     "type": "git",
     "url": "https://github.com/sdsarun/vscode-vim-default-theme"
   },
+  "icon": "images/icon.png",
   "contributes": {
     "themes": [
       {
