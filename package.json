@@ -18,5 +18,8 @@
         "path": "./themes/vim-default-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.9.2"
   }
 }
