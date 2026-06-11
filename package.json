@@ -1,8 +1,9 @@
 {
   "name": "vim-default",
   "displayName": "Vim Default",
-  "description": "",
+  "description": "A default Vim color theme for VS Code",
   "version": "0.0.1",
+  "publisher": "sdsarun",
   "engines": {
     "vscode": "^1.120.0"
   },
@@ -14,7 +15,7 @@
       {
         "label": "Vim Default",
         "uiTheme": "vs-dark",
-        "path": "./themes/Vim Default-color-theme.json"
+        "path": "./themes/vim-default-color-theme.json"
       }
     ]
   }
