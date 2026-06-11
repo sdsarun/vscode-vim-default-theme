@@ -7,9 +7,16 @@
   "engines": {
     "vscode": "^1.120.0"
   },
+  "scripts": {
+    "pack": "vsce package"
+  },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdsarun/vscode-vim-default-theme"
+  },
   "contributes": {
     "themes": [
       {
